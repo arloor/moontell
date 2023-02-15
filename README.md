@@ -1,4 +1,4 @@
-## how to install
+## how to install 
 
 Just click `Use this template` to create your blog site by 
 
